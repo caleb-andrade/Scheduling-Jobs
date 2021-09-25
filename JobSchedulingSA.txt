@@ -1,0 +1,36 @@
+
+Initial solution: 
+
+Initial objective value:  2.77665093124
+
+Job 0: [0.0,4.0) Location: 0.733712262996
+Job 1: [2.0,8.0) Location: 0.33193246602
+Job 2: [2.0,8.0) Location: 0.727387554988
+Job 3: [6.0,14.0) Location: 0.322831149948
+Job 4: [6.0,14.0) Location: 0.294489486578
+Job 5: [10.0,14.0) Location: 0.306119618769
+Job 6: [12.0,16.0) Location: 0.493503256808
+Job 7: [12.0,16.0) Location: 0.147387029163
+Job 8: [12.0,20.0) Location: 0.116407399045
+Job 9: [12.0,20.0) Location: 0.815210069085
+Job 10: [18.0,24.0) Location: 0.832998046582
+Job 11: [18.0,24.0) Location: 0.568998015511
+Job 12: [22.0,26.0) Location: 0.283218418277
+
+Running time:  18.9737497363
+Objective value:  6.07640100003
+Final Solution: 
+
+Job 0: [0.0,4.0) Location: 0.522787275915
+Job 1: [2.0,8.0) Location: 0.761498014703
+Job 2: [2.0,8.0) Location: 0.262866939518
+Job 3: [6.0,14.0) Location: 0.325879050053
+Job 4: [6.0,14.0) Location: 0.705210787702
+Job 5: [10.0,14.0) Location: 0.518365687443
+Job 6: [12.0,16.0) Location: 0.605185510284
+Job 7: [12.0,16.0) Location: 0.217585830737
+Job 8: [12.0,20.0) Location: 0.804713790043
+Job 9: [12.0,20.0) Location: 0.411101354781
+Job 10: [18.0,24.0) Location: 0.285836512016
+Job 11: [18.0,24.0) Location: 0.674805775391
+Job 12: [22.0,26.0) Location: 0.473386692142
